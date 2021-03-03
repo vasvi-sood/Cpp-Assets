@@ -1,0 +1,3 @@
+int ** arr=new int*[rowsize];
+    for(int i=0;i<rowsize;i++)
+    arr[i]=new int[colsize];
